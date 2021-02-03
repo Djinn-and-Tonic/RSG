@@ -16,3 +16,4 @@ Since rando rando seeds can take a long time, there are some settings we can use
 #### When I double click `RandomSettingsGenerator.py` nothing happens and no file is generated.
 
 The script is crashing. Ensure that you have the correct version of Ocarina of Time randomizer 6.0.0 and that the script is in the correct directory. If it is still not working, try to run via the command line to see the error message.
+
